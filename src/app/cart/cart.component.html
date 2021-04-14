@@ -1,0 +1,28 @@
+<mat-toolbar color="primary">
+    <mat-toolbar-row>
+      <mat-icon class="example-icon" routerLink="/home">arrow_back</mat-icon>
+      <span>cart</span>
+    </mat-toolbar-row>
+  </mat-toolbar>
+  <mat-list >
+      <mat-list-item *ngFor="let storeData of cartData;let index=index">
+        <mat-icon mat-list-icon>folder</mat-icon>
+        <h4 mat-line>{{storeData.name}}</h4>
+         <mat-icon class="example-icon" (click)="delete(index)">delete</mat-icon>
+         <p mat-line>{{storeData.selectedWeight}}
+           <ng-container *ngIf="storeData.sellType=='piece'">piece</ng-container>
+           <ng-container *ngIf="storeData.sellType=='gram'">Gm</ng-container>
+           <ng-container *ngIf="storeData.sellType=='kg'">Kg</ng-container>
+           
+         </p>
+        <!-- <p mat-line>{{storeData.price * storeData.selectedWeight}} &#x20b9; --- {{storeData.selectedWeight}} Kg</p> -->
+      </mat-list-item>
+      <mat-divider></mat-divider>
+    </mat-list>
+  
+  <button (click)="Order()">Order</button>
+  <p *ngIf="cartData.length==0">Cart is empty go back and choose another product</p>
+  
+  <a href="https://api.whatsapp.com/send?phone=919998062518&amp;text= jk" target="_blank" class="whatsapp">
+  button
+  </a>
