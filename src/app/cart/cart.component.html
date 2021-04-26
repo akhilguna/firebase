@@ -1,0 +1,50 @@
+<!-- <mat-toolbar color="primary">
+    <mat-toolbar-row>
+      <mat-icon class="example-icon" routerLink="/home">arrow_back</mat-icon>
+      <span>cart</span>
+    </mat-toolbar-row>
+  </mat-toolbar>
+  <mat-list >
+      <mat-list-item *ngFor="let storeData of cartData;let index=index">
+        <mat-icon mat-list-icon>folder</mat-icon>
+        <h4 mat-line>{{storeData.name}}</h4>
+         <mat-icon class="example-icon" (click)="delete(index)">delete</mat-icon>
+         <p mat-line>{{storeData.selectedWeight}}
+           <ng-container *ngIf="storeData.sellType=='piece'">piece</ng-container>
+           <ng-container *ngIf="storeData.sellType=='gram'">Gm</ng-container>
+           <ng-container *ngIf="storeData.sellType=='kg'">Kg</ng-container>
+           
+         </p>-->
+        <!-- <p mat-line>{{storeData.price * storeData.selectedWeight}} &#x20b9; --- {{storeData.selectedWeight}} Kg</p> -->
+      <!-- </mat-list-item>
+      <mat-divider></mat-divider>
+    </mat-list> -->
+  
+  <!-- <button (click)="Order()">Order</button>
+  <p *ngIf="cartData.length==0">Cart is empty go back and choose another product</p>
+  
+  <a href="https://api.whatsapp.com/send?phone=919998062518&amp;text= jk" target="_blank" class="whatsapp">
+  button
+  </a> -->
+
+  <header-component></header-component>
+
+  <main role="main">
+  
+    <!-- <section class="jumbotron text-center">
+      <div class="container">
+        <h1 class="jumbotron-heading">Product Shop</h1>
+        <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not
+          too short so folks don't simply skip over it entirely.</p>
+        <p>
+          <a href="#" class="btn btn-primary my-2 mx-2" (click)="getAllProducts($event)">View Products</a>
+          <a href="#" class="btn btn-secondary my-2">Secondary action</a>
+        </p>
+      </div>
+    </section> -->
+  
+    <product-list-component [products]="products"></product-list-component>
+  
+    <cart-component></cart-component>
+  
+  </main>
