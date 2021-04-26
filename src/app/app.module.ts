@@ -1,4 +1,9 @@
-﻿import { DemoMaterialModule } from './cart/material.module';
+﻿import { HeaderComponent } from './cart/header.component';
+import { ProductListComponent } from './cart/product-list.component';
+import { Cart1Component } from './cart/cart1.component';
+import { MyMainService } from './_services/main.service';
+import { MySharedService } from './_services/shared.service';
+import { DemoMaterialModule } from './cart/material.module';
 import { CartComponent } from '../app/cart/cart.component';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
@@ -37,14 +42,19 @@ import {BrowserAnimationsModule,NoopAnimationsModule} from '@angular/platform-br
         AlertComponent,
         HomeComponent,
         CartComponent,
-        HomecartComponent
+        HomecartComponent,
+        Cart1Component,
+        ProductListComponent,
+        HeaderComponent
     ],
     providers: [
         { provide: HTTP_INTERCEPTORS, useClass: JwtInterceptor, multi: true },
         { provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true },
-        CartService
+        CartService,
+        MySharedService,
+        MyMainService,
         // provider used to create fake backend
-        // fakeBackendProvider
+        fakeBackendProvider
     ],
     bootstrap: [AppComponent],
 

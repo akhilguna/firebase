@@ -1,5 +1,8 @@
+import { MySharedService } from './../_services/shared.service';
+import { MyMainService } from './../_services/main.service';
 import { Component, OnInit } from '@angular/core';
 import { CartService } from '../_services/cart.service';
+
 
 @Component({
   selector: 'app-cart',
@@ -9,10 +12,17 @@ import { CartService } from '../_services/cart.service';
 export class CartComponent implements OnInit {
 
   cartData:Array<any>=[];
-  constructor(private cartService:CartService) {   }
+  products: any = [];
+  constructor(private cartService:CartService,private myMainService: MyMainService,
+    private mySharedService: MySharedService) {   }
+ 
 
   ngOnInit(){
      this.cartData=this.cartService.getData();
+     this.myMainService.getProducts().subscribe(data => {
+       console.log(data);
+      this.products = data.products;
+    });
   }
 
   delete(index){
