@@ -1,3 +1,5 @@
+import { ShoppageComponent } from './shoppage/shoppage.component';
+import { NewsapiComponent } from './newsapi/newsapi.component';
 import { HomecartComponent } from './homecart/homecart.component';
 import { CartComponent } from './cart/cart.component';
 import { NgModule } from '@angular/core';
@@ -15,6 +17,7 @@ const routes: Routes = [
     { path: 'account', loadChildren: accountModule },
     { path: 'cart', component:CartComponent, canActivate: [AuthGuard] },
     { path: 'homecart', component:HomecartComponent, canActivate: [AuthGuard]},
+    { path: 'shoppage', component:ShoppageComponent, canActivate: [AuthGuard]},
     // otherwise redirect to home
     { path: '**', redirectTo: '' }
 ];

@@ -13,6 +13,11 @@ export class MyMainService {
     return this.http.get('../../../assets/data/products.json')
     .map(this.extractData);
   }
+  getCollection(): Observable<any> {
+    return this.http.get('../../../assets/data/collections.json')
+    .map(this.extractData);
+  }
+  gety
   private extractData(res: Response) {
     let body = res;
     return body;

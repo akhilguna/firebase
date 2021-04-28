@@ -1,0 +1,440 @@
+{
+    "collections": [
+        {
+        "id": "001",
+        "name": "New collection",
+        "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/banner1_7b982df4-a58d-4463-8a6f-4ec1cb32185f.jpg?v=1580458814"
+
+        },
+        {
+            "id": "001",
+            "name": "Bikini for beach",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/banner2.1.jpg?v=1581502331"
+            
+        },
+        {
+            "id": "001",
+            "name": "Best choice for you",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/banner3.jpg?v=1580458729"
+
+        }
+    ],
+    "fashionproducts":[
+           {
+            "id": "001",
+            "name": "Balow shaw bikini",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new_1.1.jpg?v=1581906828",
+            "price":"$105.00"
+            },
+            {
+                "id": "001",
+                "name": "Halow Print Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_2_mah_vay_yem_hoa_xinh_bkn617.jpg?v=1580703859",
+                "price":"$105.00"
+
+                
+            },
+            {
+                "id": "001",
+                "name": "Beach Brand Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_1_manh_cutout_ton_dang_bkn658_01.jpg?v=1580703956",
+                "price":"$105.00"
+
+            },
+            {
+                "id": "001",
+                "name": "Sandal Brand Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new2.1.jpg?v=1581906780",
+                "price":"$105.00"
+
+            },
+            {
+                "id": "001",
+                "name": "Swim Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/1.2.jpg?v=1581564350",
+                "price":"$105.00"
+
+            },
+            {
+                "id": "001",
+                "name": "Tribal Print Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new4.1.jpg?v=1581931929",
+                "price":"$105.00"
+
+            },
+            {
+                "id": "001",
+                "name": "Floral Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_1_manh_nhun_eo_quan_short_bkn664__2.jpg?v=1580703435",
+                "price":"$105.00"
+
+            },
+            {
+                "id": "001",
+                "name": "One Piece Bikini Set",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_1_manh_nhun_eo_quan_short_bkn665.jpg?v=1580703466",
+                "price":"$105.00"
+
+            }
+    ],
+    "fashionproducts1":[
+        {
+         "id": "001",
+         "name": "Balow shaw bikini",
+         "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_1_manh_nhun_eo_quan_short_bkn664__2.jpg?v=1580703435",
+         "price":"$105.00"
+         },
+         {
+             "id": "001",
+             "name": "Halow Print Bikini",
+             "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_hai_manh_cap_thap_cham_bi_bkn534.jpg?v=1580703880",
+             "price":"$105.00"
+
+             
+         },
+         {
+             "id": "001",
+             "name": "Beach Brand Bikini",
+             "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_1_manh_nhun_eo_quan_short_bkn665.jpg?v=1580703466",
+             "price":"$105.00"
+
+         },
+         {
+             "id": "001",
+             "name": "Sandal Brand Bikini",
+             "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/bikini_2_manh_cap_thap_nang_nguc_bkn542.jpg?v=1580704393",
+             "price":"$105.00"
+
+         },
+         {
+             "id": "001",
+             "name": "Swim Bikini",
+             "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_2_mah_vay_yem_hoa_xinh_bkn617___2.jpg?v=1580704428",
+             "price":"$105.00"
+
+         },
+         {
+             "id": "001",
+             "name": "Tribal Print Bikini",
+             "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_hai_manh_cot_day_bkn532_1.jpg?v=1580704646",
+             "price":"$105.00"
+
+         },
+         {
+             "id": "001",
+             "name": "Floral Bikini",
+             "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_2_manh_do_tuoi_sexy_bkn649.jpg?v=1580703784",
+             "price":"$105.00"
+
+         },
+         {
+             "id": "001",
+             "name": "One Piece Bikini Set",
+             "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_2_manh_do_tuoi_sexy_bkn649.jpg?v=1580703784",
+             "price":"$105.00"
+
+         }
+ ],
+ "fashionproducts2":[
+    {
+     "id": "001",
+     "name": "Balow shaw bikini",
+     "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new2.1.jpg?v=1581906780",
+     "price":"$105.00"
+     },
+     {
+         "id": "001",
+         "name": "Halow Print Bikini",
+         "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/1.2.jpg?v=1581564350",
+         "price":"$105.00"
+
+         
+     },
+     {
+         "id": "001",
+         "name": "Beach Brand Bikini",
+         "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new_1.1.jpg?v=1581906828",
+         "price":"$105.00"
+
+     },
+     {
+         "id": "001",
+         "name": "Sandal Brand Bikini",
+         "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/4.1.jpg?v=1581564458",
+         "price":"$105.00"
+
+     },
+     {
+         "id": "001",
+         "name": "Swim Bikini",
+         "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new3_1_692d1aa5-48c1-481e-9170-b4800c05c3a4.jpg?v=1581931874",
+         "price":"$105.00"
+
+     },
+     {
+         "id": "001",
+         "name": "Tribal Print Bikini",
+         "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/3.1.jpg?v=1581564847",
+         "price":"$105.00"
+
+     },
+     {
+         "id": "001",
+         "name": "Floral Bikini",
+         "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/2.1.jpg?v=1581564681",
+         "price":"$105.00"
+
+     },
+     {
+         "id": "001",
+         "name": "One Piece Bikini Set",
+         "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new4.1.jpg?v=1581931929",
+         "price":"$105.00"
+
+     }
+],
+    "fashioncollection":[
+        {
+            "id": "001",
+            "name": "New collection",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/banner8.jpg?v=1581910515"
+        },
+        {
+            "id": "001",
+            "name": "New collection",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/baner8.jpg?v=1581909798"
+        }
+    ],
+    "fashionimages":[
+        {
+            "id": "001",
+            "name": "Balow shaw bikini",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new2.1.jpg?v=1581906780",
+            "price":"$105.00"
+            },
+            {
+                "id": "001",
+                "name": "Halow Print Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/1.2.jpg?v=1581564350",
+                "price":"$105.00"
+       
+                
+            },
+            {
+                "id": "001",
+                "name": "Beach Brand Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new_1.1.jpg?v=1581906828",
+                "price":"$105.00"
+       
+            },
+            {
+                "id": "001",
+                "name": "Sandal Brand Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/4.1.jpg?v=1581564458",
+                "price":"$105.00"
+       
+            },
+            {
+                "id": "001",
+                "name": "Swim Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new3_1_692d1aa5-48c1-481e-9170-b4800c05c3a4.jpg?v=1581931874",
+                "price":"$105.00"
+       
+            },
+            {
+                "id": "001",
+                "name": "Tribal Print Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/3.1.jpg?v=1581564847",
+                "price":"$105.00"
+       
+            },
+            {
+                "id": "001",
+                "name": "Floral Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/2.1.jpg?v=1581564681",
+                "price":"$105.00"
+       
+            },
+            {
+                "id": "001",
+                "name": "One Piece Bikini Set",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new4.1.jpg?v=1581931929",
+                "price":"$105.00"
+       
+            },
+            {
+                "id": "001",
+                "name": "Sandal Brand Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/bikini_2_manh_cap_thap_nang_nguc_bkn542.jpg?v=1580704393",
+                "price":"$105.00"
+   
+            },
+            {
+                "id": "001",
+                "name": "Swim Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_2_mah_vay_yem_hoa_xinh_bkn617___2.jpg?v=1580704428",
+                "price":"$105.00"
+   
+            },
+            {
+                "id": "001",
+                "name": "Tribal Print Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_hai_manh_cot_day_bkn532_1.jpg?v=1580704646",
+                "price":"$105.00"
+   
+            },
+            {
+                "id": "001",
+                "name": "Floral Bikini",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_2_manh_do_tuoi_sexy_bkn649.jpg?v=1580703784",
+                "price":"$105.00"
+   
+            },
+            {
+                "id": "001",
+                "name": "One Piece Bikini Set",
+                "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_2_manh_do_tuoi_sexy_bkn649.jpg?v=1580703784",
+                "price":"$105.00"
+   
+            }
+    ],
+    "fashionslider":[
+        {
+            "id": "001",
+            "date":"January 30, 2020",
+            "name": "Shower before a swim!",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/articles/2_1024x1024.jpg?v=1580436167",
+            "description":"Sexy lingerie We always stay in touch with the latest fashion tendencies - that is why our goods are so popular and we have a",
+            "price":"$105.00"
+
+        },
+        {
+            "id": "001",
+            "date":"January 30, 2020",
+            "name": "Shower before a swim!",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/articles/10_1024x1024.jpg?v=1580436057",
+            "description":"Sexy lingerie We always stay in touch with the latest fashion tendencies - that is why our goods are so popular and we have a",
+            "price":"$105.00"
+
+        },
+        {
+            "id": "001",
+            "date":"January 30, 2020",
+            "name": "Shower before a swim!",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/articles/7_1024x1024.jpg?v=1580435974",
+            "description":"Sexy lingerie We always stay in touch with the latest fashion tendencies - that is why our goods are so popular and we have a",
+            "price":"$105.00"
+
+        },
+        {
+            "id": "001",
+            "date":"January 30, 2020",
+            "name": "Shower before a swim!",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/articles/6_1024x1024.jpg?v=1580435927",
+            "description":"Sexy lingerie We always stay in touch with the latest fashion tendencies - that is why our goods are so popular and we have a",
+            "price":"$105.00"
+
+        },
+        {
+            "id": "001",
+            "date":"January 30, 2020",
+            "name": "Shower before a swim!",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/articles/2_1024x1024.jpg?v=1580436167",
+            "description":"Sexy lingerie We always stay in touch with the latest fashion tendencies - that is why our goods are so popular and we have a",
+            "price":"$105.00"
+
+        },
+        {
+            "id": "001",
+            "date":"January 30, 2020",
+            "name": "Shower before a swim!",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/articles/1_1024x1024.jpg?v=1580435874",
+            "description":"Sexy lingerie We always stay in touch with the latest fashion tendencies - that is why our goods are so popular and we have a",
+            "price":"$105.00"
+
+        },
+        {
+            "id": "001",
+            "date":"January 30, 2020",
+            "name": "Shower before a swim!",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/articles/9_1024x1024.jpg?v=1580435625",
+            "description":"Sexy lingerie We always stay in touch with the latest fashion tendencies - that is why our goods are so popular and we have a",
+            "price":"$105.00"
+
+        }
+    ],
+    "testimonialslider":[
+        {
+            "id": "001",
+            "title":"Destinee",
+            "name": "Marketing personal",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/people1.png?v=1580808194",
+            "description":"Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more than I paid Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more!"
+        },
+        {
+            "id": "001",
+            "title":"Destinee",
+            "name": "Marketing personal",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/people4.png?v=1580808203",
+            "description":"Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more than I paid Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more!"
+        },
+        {
+            "id": "001",
+            "title":"Destinee",
+            "name": "Marketing personal",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/people2.png?v=1580808197",
+            "description":"Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more than I paid Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more!"
+        }
+    ],
+    "stratingslider":[
+        {
+            "id": "001",
+            "title":"Bralette",
+            "boxtitle":"Bikini on Beach",
+            "name": "Inspiration from the city sea and journey",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/slide3.7.jpg?v=1580809924",
+            "description":"Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more than I paid Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more!"
+        },
+        {
+            "id": "001",
+            "title":"forsummer",
+            "boxtitle":"Bikini collection",
+            "name": "sale up to 60% off today",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/slide3.6.jpg?v=1580809639",
+            "description":"Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more than I paid Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more!"
+        },
+        {
+            "id": "001",
+            "title":"forchildren",
+            "boxtitle":"Holiday collection",
+            "name": "sale up to 60% off today",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/slide3.4.jpg?v=1580805870",
+            "description":"Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more than I paid Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more!"
+        },
+        {
+            "id": "001",
+            "title":"forsummer",
+            "boxtitle":"Bikini collection",
+            "name": "sale up to 60% off today",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/slide3.5.jpg?v=1580805818",
+            "description":"Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more than I paid Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more!"
+        },
+        {
+            "id": "001",
+            "title":"forsummer",
+            "boxtitle":"Bikini collection",
+            "name": "sale up to 60% off today",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/slide4_9.jpg?v=1581914274",
+            "description":"Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more than I paid Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more!"
+        },
+        {
+            "id": "001",
+            "title":"forsummer",
+            "boxtitle":"Bikini collection",
+            "name": "sale up to 60% off today",
+            "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/files/slide4.1.jpg?v=1580812515",
+            "description":"Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more than I paid Saved our business! We have no regrets! Thanks for the great service. Sunmi is worth much more!"
+        }
+    ]
+    
+  }

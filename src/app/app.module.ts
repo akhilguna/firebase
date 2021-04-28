@@ -21,7 +21,14 @@ import { HomeComponent } from './home';;
 import { HomecartComponent } from './homecart/homecart.component';
 import { CartService } from './_services';
 import { AngularWebStorageModule } from 'angular-web-storage';
-import {BrowserAnimationsModule,NoopAnimationsModule} from '@angular/platform-browser/animations';
+import {BrowserAnimationsModule,NoopAnimationsModule} from '@angular/platform-browser/animations';;
+import { NewsapiComponent } from './newsapi/newsapi.component';
+import { MatCarouselModule } from '@ngmodule/material-carousel';
+import { ShoppageComponent } from './shoppage/shoppage.component';
+import { JwPaginationModule } from 'jw-angular-pagination';
+import { SlickCarouselModule } from 'ngx-slick-carousel';
+
+
 
 
 
@@ -35,7 +42,10 @@ import {BrowserAnimationsModule,NoopAnimationsModule} from '@angular/platform-br
         AngularWebStorageModule,
         FormsModule,
         BrowserAnimationsModule,
-        NoopAnimationsModule
+        NoopAnimationsModule,
+        MatCarouselModule.forRoot(),
+        JwPaginationModule,
+        SlickCarouselModule
     ],
     declarations: [
         AppComponent,   
@@ -45,7 +55,9 @@ import {BrowserAnimationsModule,NoopAnimationsModule} from '@angular/platform-br
         HomecartComponent,
         Cart1Component,
         ProductListComponent,
-        HeaderComponent
+        HeaderComponent,
+        NewsapiComponent,
+        ShoppageComponent
     ],
     providers: [
         { provide: HTTP_INTERCEPTORS, useClass: JwtInterceptor, multi: true },
