@@ -22,15 +22,15 @@
     "fashionproducts":[
            {
             "id": "001",
-            "name": "Balow shaw bikini",
+            "name": "Bralette Nykimono",
             "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new_1.1.jpg?v=1581906828",
-            "price":"$105.00"
+            "price":"$100.00"
             },
             {
                 "id": "001",
-                "name": "Halow Print Bikini",
+                "name": "Greta Underwired Bustier",
                 "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_2_mah_vay_yem_hoa_xinh_bkn617.jpg?v=1580703859",
-                "price":"$105.00"
+                "price":"$100.00"
 
                 
             },
@@ -38,40 +38,40 @@
                 "id": "001",
                 "name": "Beach Brand Bikini",
                 "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_1_manh_cutout_ton_dang_bkn658_01.jpg?v=1580703956",
-                "price":"$105.00"
+                "price":"$50.00"
 
             },
             {
                 "id": "001",
-                "name": "Sandal Brand Bikini",
+                "name": "Bodysuit Vampire",
                 "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new2.1.jpg?v=1581906780",
-                "price":"$105.00"
+                "price":"$100.00"
 
             },
             {
                 "id": "001",
-                "name": "Swim Bikini",
+                "name": "Bralette Sakynim",
                 "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/1.2.jpg?v=1581564350",
-                "price":"$105.00"
+                "price":"$100.00"
 
             },
             {
                 "id": "001",
-                "name": "Tribal Print Bikini",
+                "name": "Valentina Corded Lace",
                 "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new4.1.jpg?v=1581931929",
-                "price":"$105.00"
+                "price":"$80.00"
 
             },
             {
                 "id": "001",
-                "name": "Floral Bikini",
+                "name": "Balow Sah Bikini",
                 "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_1_manh_nhun_eo_quan_short_bkn664__2.jpg?v=1580703435",
                 "price":"$105.00"
 
             },
             {
                 "id": "001",
-                "name": "One Piece Bikini Set",
+                "name": "Beach Brand Bikini",
                 "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/do_boi_1_manh_nhun_eo_quan_short_bkn665.jpg?v=1580703466",
                 "price":"$105.00"
 
@@ -138,13 +138,13 @@
  "fashionproducts2":[
     {
      "id": "001",
-     "name": "Balow shaw bikini",
+     "name": "Bodysuit Vampire",
      "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new2.1.jpg?v=1581906780",
      "price":"$105.00"
      },
      {
          "id": "001",
-         "name": "Halow Print Bikini",
+         "name": "Bralette Sakynim",
          "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/1.2.jpg?v=1581564350",
          "price":"$105.00"
 
@@ -152,42 +152,42 @@
      },
      {
          "id": "001",
-         "name": "Beach Brand Bikini",
+         "name": "Bralette Nykimono",
          "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new_1.1.jpg?v=1581906828",
          "price":"$105.00"
 
      },
      {
          "id": "001",
-         "name": "Sandal Brand Bikini",
+         "name": "Bralette Vapaemy",
          "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/4.1.jpg?v=1581564458",
          "price":"$105.00"
 
      },
      {
          "id": "001",
-         "name": "Swim Bikini",
+         "name": "Bralette Tristi",
          "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new3_1_692d1aa5-48c1-481e-9170-b4800c05c3a4.jpg?v=1581931874",
          "price":"$105.00"
 
      },
      {
          "id": "001",
-         "name": "Tribal Print Bikini",
+         "name": "Tribal Print Bralette",
          "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/3.1.jpg?v=1581564847",
          "price":"$105.00"
 
      },
      {
          "id": "001",
-         "name": "Floral Bikini",
+         "name": "Wrap Type Bikini Set",
          "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/2.1.jpg?v=1581564681",
          "price":"$105.00"
 
      },
      {
          "id": "001",
-         "name": "One Piece Bikini Set",
+         "name": "Valentina Corded Lace",
          "image": "https://cdn.shopify.com/s/files/1/0318/1759/7065/products/new4.1.jpg?v=1581931929",
          "price":"$105.00"
 

@@ -26,7 +26,8 @@ import { NewsapiComponent } from './newsapi/newsapi.component';
 import { MatCarouselModule } from '@ngmodule/material-carousel';
 import { ShoppageComponent } from './shoppage/shoppage.component';
 import { JwPaginationModule } from 'jw-angular-pagination';
-import { SlickCarouselModule } from 'ngx-slick-carousel';
+import { SlickCarouselModule } from 'ngx-slick-carousel';;
+import { MapComponent } from './map/map.component'
 
 
 
@@ -58,6 +59,8 @@ import { SlickCarouselModule } from 'ngx-slick-carousel';
         HeaderComponent,
         NewsapiComponent,
         ShoppageComponent
+,
+        MapComponent
     ],
     providers: [
         { provide: HTTP_INTERCEPTORS, useClass: JwtInterceptor, multi: true },
